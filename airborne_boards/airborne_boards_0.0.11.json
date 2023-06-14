@@ -12,7 +12,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/bradgrissom/AirborneBoardsPublicBSP/tree/2023.06.14_SAME51G18_selftest/airborne_boards/bossac-1.9.2-airbornecustom.zip?raw=true"
+              "url": "https://github.com/bradgrissom/AirborneBoardsPublicBSP/tree/2023.06.14_SAME51G18_selftest/airborne_boards/bossac-1.9.2-airbornecustom.zip?raw=true",
               "archiveFileName": "bossac-1.9.2-airbornecustom.zip",
               "checksum": "SHA-256:DEFC125063831ABC55A82C1059A85505E61B7C887DED3023E407C9F8710CD6F6",
               "size": "2589588"
